@@ -4,7 +4,7 @@ Calender is a chart or series of pages showing the days, weeks, and months of a 
 
 ## Wanna see? [Check it out!](https://priyanshupaul08.github.io/Calender/)
 
-##What is calendar used for?
+## What is calendar used for?
 
 - Calendars are useful tools for keeping track of upcoming meetings, deadlines, and milestones. 
 - They can help you visualize your schedule and remind you of important events, such as holidays and vacation time.
